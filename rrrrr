@@ -1,0 +1,10 @@
+<input type>="number"max="100"id="nota_1"
+Placeholder="insira nota 1">
+<input type="number"="100"id="nota_2"
+Placeholder="insira a nota 2">
+<button id="calcular"onclick="calcular()">calcular</button>
+<P> a sua média é:<span id="média"></span></p>
+<P id>="status"></p>
+<Script>
+Function calcular(){var n1, n2, media
+n1=document.get element by id('nota1').value;
