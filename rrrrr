@@ -8,3 +8,4 @@ Placeholder="insira a nota 2">
 <Script>
 Function calcular(){var n1, n2, media
 n1=document.get element by id('nota1').value;
+n2=document.get element by id('nota2')value
